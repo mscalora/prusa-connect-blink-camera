@@ -1,0 +1,3 @@
+aiohttp~=3.9.1
+blinkpy~=0.22.6
+colorama~=0.4.6
